@@ -18,7 +18,7 @@ body{
 .container{
     max-width:1200px;
     margin:0 auto;
-    padding:3rem;
+    padding:0.2rem;
     
 }
 .btn{
@@ -461,6 +461,7 @@ color:var(--para)
     }
 }
 /* software-dev */
+<<<<<<< HEAD
 /* contact */
 .contact{
     background-color: var(--primary);
@@ -575,3 +576,5 @@ footer .copy-right{
     }
 }
 /* footer */
+=======
+>>>>>>> 9c038c7ec8c4b096ad0cd0fedf4491dd3ecda172
