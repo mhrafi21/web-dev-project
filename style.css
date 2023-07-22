@@ -416,6 +416,7 @@ color:var(--para)
 
 .software-dev{
     background-color: var(--secondary);
+    padding: 3rem 0rem;
 }
 .software-dev .container .row{
     display: grid;
