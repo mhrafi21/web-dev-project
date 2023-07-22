@@ -427,7 +427,18 @@ header .hero .row .col h2 {
   gap: 1.5rem;
 }
 .software-dev .container .row .col h3 {
-  color: var(--);
+  color: var(--secondary);
+  font-size: 2rem;
+}
+.software-dev .container .row .col p{
+    color:var(--secondary);
+}
+.software-dev .container .row .col a{
+    font-size:0.9rem;
+    text-decoration: none;
+}
+.software-dev .container .row .col a:hover{
+    text-decoration: underline;
 }
 .software-dev .container .row .col .img img {
   width: 100%;
