@@ -164,7 +164,7 @@ header .hero .row .col h2{
 /* skills */
 .skills{
     background-color: var(--secondary);
-
+    padding: 3rem 0rem;
 }
 .skills h4{
     font-size: 1.5rem;
@@ -217,6 +217,7 @@ color:var(--para)
 /* skills */
 .resume{
     background-color: var(--primary);
+    padding: 3rem 0rem;
 }
 .resume .container .row{
     display: grid;
@@ -360,6 +361,7 @@ color:var(--para)
 /* pricing */
 .pricing{
     background-color: var(--secondary);
+    padding: 3rem 0rem;
 }
 .pricing .container .p-title{
     display: flex;
@@ -461,10 +463,10 @@ color:var(--para)
     }
 }
 /* software-dev */
-<<<<<<< HEAD
 /* contact */
 .contact{
     background-color: var(--primary);
+    padding: 3rem 0rem;
 }
 .contact .container .contact-row{
     display: grid;
@@ -537,7 +539,8 @@ color:var(--para)
 
 /* footer */
 .footer{
-    background-color:var(--secondary) ;
+    background-color:var(--secondary);
+    padding: 4rem 0rem;
 }
 .footer .container .row{
     display: grid;
@@ -576,5 +579,3 @@ footer .copy-right{
     }
 }
 /* footer */
-=======
->>>>>>> 9c038c7ec8c4b096ad0cd0fedf4491dd3ecda172
